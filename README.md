@@ -1,5 +1,9 @@
 # Building A Real-Time Data Platform on AWS
 
+# Mission
+
+Our company [unicornshops](https://www.unicornshop.io), is one of the fastest growing *unicorn* start-ups that is quickly becoming the leading online retailer of pet unicorns in Australia and New Zealand. You have joined the company recently as the chief engineer and soon realize that there are trouble in the horizon...
+
 <h3>
 Following a viral marketing campaign, an unprecedented surge of traffic led to a 12 hour outage of our Unicornshop online store. 
 </h3>
@@ -9,7 +13,6 @@ After quickly increasing our capacity in our AWS environment, our CTO has mandat
 In addition, the VP of Sales and Marketing has decided on a new data strategy to win back customers through better understanding of how visitors behave across different channels.
 
 Your mission, should you choose to accept it, is to create a real-time data platform to enable these outcomes for our unicorn business! 🦄🦄🦄 
-
 
 ![splash](images/splash.png)
 
