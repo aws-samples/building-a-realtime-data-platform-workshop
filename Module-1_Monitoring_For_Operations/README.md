@@ -1,7 +1,7 @@
 # Module 1: Monitoring for Operations
 
 # Introduction
-In the first part of this module, we will create a monitoring dashboard to gain visibility into the operational health of our infrastructure for EC2 and RDS instance. By surfacing these metrics, we can detect potential problems earlier on to spot capacity failures, and gain insights on demand pattern for time series analysis and cost savings through elasticity.
+In the first part of this module, we will create a monitoring dashboard to gain visibility into the operational health of our EC2 and RDS infrastructure that is powering our [online store](https://www.unicornshop.io/). By surfacing these metrics, we can detect potential problems earlier on to spot capacity failures, and gain insights on demand pattern for time series analysis and cost savings through elasticity.
 
 In the second part of this module, we will use AWS WAF on our Application Load Balancer to log incoming HTTP requests and use a ruleset to observe BLOCKED and ALLOWED requests in Kibana and Elasticsearch. 
 
