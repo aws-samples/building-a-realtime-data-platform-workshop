@@ -2,7 +2,7 @@
 
 # Mission
 
-Our company [unicornshops](https://www.unicornshop.io), is one of the fastest growing *unicorn* start-ups that is quickly becoming the leading online retailer of pet unicorns in Australia and New Zealand. You have joined the company recently as the chief engineer and soon realize that there are trouble in the horizon...
+Our company [unicornshop](https://www.unicornshop.io), is one of the fastest growing *unicorn* start-ups that is quickly becoming the leading online retailer of pet unicorns in Australia and New Zealand. You have joined the company recently as the chief engineer and soon realize that there are trouble in the horizon...
 
 <h3>
 Following a viral marketing campaign, an unprecedented surge of traffic led to a 12 hour outage of our Unicornshop online store. 
