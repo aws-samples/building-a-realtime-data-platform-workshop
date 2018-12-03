@@ -476,10 +476,11 @@ As we have a copy of the clickstream data being saved in our S3 bucket (as confi
 In real world use cases, this can help complement existing Data Warehouses such as Redshift for heavier offline processing and analysis of your data.
 
 Below are some references to help get started.
-https://docs.aws.amazon.com/athena/latest/ug/glue-athena.html
-https://docs.aws.amazon.com/athena/latest/ug/getting-started.html
-https://aws.amazon.com/blogs/big-data/build-a-data-lake-foundation-with-aws-glue-and-amazon-s3/
-https://docs.aws.amazon.com/athena/latest/ug/ctas.html
+
++ https://docs.aws.amazon.com/athena/latest/ug/glue-athena.html
++ https://docs.aws.amazon.com/athena/latest/ug/getting-started.html
++ https://aws.amazon.com/blogs/big-data/build-a-data-lake-foundation-with-aws-glue-and-amazon-s3/
++ https://docs.aws.amazon.com/athena/latest/ug/ctas.html
 
 
 
